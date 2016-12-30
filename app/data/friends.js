@@ -1,3 +1,5 @@
+//data
+
 var friends = [{ 
 	'name': "Keely"
 	'photo': 'http://www.skinet.com/warrenmiller/files/imagecache/gallery_2015/_images/201305/mt_pascal-beauvais_dsc_0696.jpg'
@@ -14,7 +16,8 @@ var friends = [{
 	'name': "Alexa"
 	'photo': 'http://ofad.org/files/daily-photo/recent-portraits-random-people-in-random-places_3.jpg'
 	'scores': [1, 2, 2, 4, 3, 3, 5, 4, 2, 5]
-
+}
+};
 
 // export the array. 
 module.exports = tableArray;
