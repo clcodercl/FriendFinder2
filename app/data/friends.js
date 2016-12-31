@@ -20,4 +20,4 @@ var friends = [{
 };
 
 // export the array. 
-module.exports = tableArray;
+module.exports = {friends: friends};
